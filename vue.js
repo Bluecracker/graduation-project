@@ -1,2 +1,3 @@
 <vue>
+  <script></script>
 </vue>
